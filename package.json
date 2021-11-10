@@ -33,5 +33,13 @@
   "devDependencies": {
     "axios": "^0.19.2",
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alinemati1987/Backend-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alinemati1987/Backend-server/issues"
+  },
+  "homepage": "https://github.com/Alinemati1987/Backend-server#readme"
 }
