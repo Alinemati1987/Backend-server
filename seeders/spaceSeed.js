@@ -15,7 +15,7 @@ module.exports = {
         },
         {
           title: "I am a dummy",
-          backgroundColor: "#40C076",
+          backgroundColor: "#22B7C5",
           color: "#EDEDED",
           createdAt: new Date(),
           updatedAt: new Date(),
